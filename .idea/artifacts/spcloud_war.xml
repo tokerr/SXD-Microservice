@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spcloud:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spcloud.war">
+      <element id="artifact" artifact-name="spcloud:war exploded" />
+    </root>
+  </artifact>
+</component>
