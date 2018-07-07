@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/eserver/pom.xml" />
         <option value="$PROJECT_DIR$/../../zhaoshang/demo/eureka_discovery/pom.xml" />
         <option value="$PROJECT_DIR$/../../zhaoshang/demo/petstore_service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../zhaoshang/demo/eureka_discovery2/pom.xml" />
       </list>
     </option>
   </component>

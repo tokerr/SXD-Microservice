@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/../../zhaoshang/demo/demo.iml" filepath="$PROJECT_DIR$/../../zhaoshang/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/eserver/eserver.iml" filepath="$PROJECT_DIR$/eserver/eserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../zhaoshang/demo/eureka_discovery/eureka_discovery.iml" filepath="$PROJECT_DIR$/../../zhaoshang/demo/eureka_discovery/eureka_discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../zhaoshang/demo/eureka_discovery2/eureka_discovery2.iml" filepath="$PROJECT_DIR$/../../zhaoshang/demo/eureka_discovery2/eureka_discovery2.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../zhaoshang/demo/petstore_service/petstore_service.iml" filepath="$PROJECT_DIR$/../../zhaoshang/demo/petstore_service/petstore_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
