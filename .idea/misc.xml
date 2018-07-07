@@ -18,6 +18,9 @@
         <option value="$PROJECT_DIR$/config-client/pom.xml" />
         <option value="$USER_HOME$/Downloads/spring-boot-demo/pom.xml" />
         <option value="$PROJECT_DIR$/../../zhaoshang/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/eserver/pom.xml" />
+        <option value="$PROJECT_DIR$/../../zhaoshang/demo/eureka_discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/../../zhaoshang/demo/petstore_service/pom.xml" />
       </list>
     </option>
   </component>

@@ -9,7 +9,10 @@
         <module name="config-client" />
         <module name="config-server" />
         <module name="demo" />
+        <module name="eserver" />
+        <module name="eureka_discovery" />
         <module name="eurekaserver" />
+        <module name="petstore_service" />
         <module name="service-feign" />
         <module name="service-hi" />
         <module name="service-hi3" />
@@ -23,8 +26,11 @@
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="eserver" target="1.8" />
+      <module name="eureka_discovery" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="JVMStudy" target="1.5" />
+      <module name="petstore_service" target="1.8" />
       <module name="service-feign" target="1.8" />
       <module name="service-hi" target="1.8" />
       <module name="service-hi3" target="1.8" />
