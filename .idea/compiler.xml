@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-client" />
         <module name="config-server" />
+        <module name="demo" />
         <module name="eurekaserver" />
         <module name="service-feign" />
         <module name="service-hi" />
@@ -15,18 +16,22 @@
         <module name="service-ribbon" />
         <module name="service-zuul" />
         <module name="spcloud" />
+        <module name="spring-boot-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
+      <module name="demo" target="1.8" />
       <module name="eurekaserver" target="1.8" />
+      <module name="JVMStudy" target="1.5" />
       <module name="service-feign" target="1.8" />
       <module name="service-hi" target="1.8" />
       <module name="service-hi3" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="service-zuul" target="1.8" />
       <module name="spcloud" target="1.7" />
+      <module name="spring-boot-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
