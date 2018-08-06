@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../zhaoshang/demo/dashboar/dashboar.iml" filepath="$PROJECT_DIR$/../../zhaoshang/demo/dashboar/dashboar.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../zhaoshang/demo/demo.iml" filepath="$PROJECT_DIR$/../../zhaoshang/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/eserver/eserver.iml" filepath="$PROJECT_DIR$/eserver/eserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../zhaoshang/demo/eureka_discovery/eureka_discovery.iml" filepath="$PROJECT_DIR$/../../zhaoshang/demo/eureka_discovery/eureka_discovery.iml" />

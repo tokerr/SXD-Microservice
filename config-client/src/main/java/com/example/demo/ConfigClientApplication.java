@@ -23,8 +23,17 @@ public class ConfigClientApplication {
 	@Value("${server.port}")
 	String port;
 
+	@Value("${democonfigclient.message}")
+	String message;
+
 	@RequestMapping(value = "/hi")
 	public String hi(){
 		return foo+":"+port;
+	}
+
+
+	@RequestMapping(value = "/hi2")
+	public String hi2(){
+		return message;
 	}
 }
